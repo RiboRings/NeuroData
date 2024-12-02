@@ -1,5 +1,7 @@
 Decoding executive functions from MEG neural oscillations in childhood
 
+Giulio Benedetti, Jan Kujala, Tiina Parviainen
+
 Executive Functions (EFs) represent a set of cognitive top-down processes involved in self-
 regulation and goal-oriented behaviour. EFs are classified in lower-order components, such as
 working memory, task shifting and early reward inhibition, and higher-order ones, such as
